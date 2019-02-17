@@ -1,11 +1,12 @@
 # ParallelSMO
--IPSMO-1 AND IPSMO-2
+- IPSMO-1 AND IPSMO-2
 *本篇论文已发表在HPCC-2018上，针对SMO算法进行了改进，提出了并行的思路和实现。*
-##SMO
 
-##IPSMO-1
+## SMO
 
-##IPSMO-2
+## IPSMO-1
+
+## IPSMO-2
 
 
 # 一级标题
