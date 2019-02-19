@@ -4,6 +4,7 @@
 
 ## SMO
 序列最小最优化算法(SMO)可以高效的求解SVM对偶问题，它把原始求解N个参数二次规划问题分解成很多个子二次规划问题分别求解，每个子问题只需要求解2个参数，方法类似于坐标上升，节省时间成本和降低了内存需求。每次启发式选择两个变量进行优化，不断循环，直到达到函数最优值。
+
 <img src="https://github.com/michelleweii/ParallelSMO/blob/master/picture/svm%E5%AF%B9%E5%81%B6%E9%97%AE%E9%A2%98.png" width="400" alt="SVM对偶问题">
 
 《统计学习方法》
