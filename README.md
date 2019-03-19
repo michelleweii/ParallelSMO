@@ -1,6 +1,6 @@
 # ParallelSMO
 
-*本篇论文已发表在HPCC-2018上，针对SMO算法进行了改进，提出了并行的思路和实现（IPSMO-1 AND IPSMO-2）。*
+*本篇论文已发表在HPCC-2018上（oral），针对SMO算法进行了改进，提出了并行的思路和实现（IPSMO-1 AND IPSMO-2）。*
 
 ## SMO
 N代表了样本的个数，当样本量小时，目标函数可以直接解出；当N很大时，二次规划问题的复杂度将会上升，直接求解将会变得很困难。
@@ -31,3 +31,9 @@ SMO算法将原问题不断分解为子问题，那么我们什么时候停止�
 <img src="https://github.com/michelleweii/ParallelSMO/blob/master/picture/949261553000559_.pic_hd.jpg" width="1200" alt="note3">
 
 ## Experiment Results
+
+<img src="https://github.com/michelleweii/ParallelSMO/blob/master/picture/ex-1.png" width="1200" alt="note3">
+
+<img src="https://github.com/michelleweii/ParallelSMO/blob/master/picture/ex-2.png" width="1200" alt="note3">
+
+放了两张表，实验结果还是不错的。
