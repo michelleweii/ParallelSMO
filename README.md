@@ -40,3 +40,5 @@ SMO算法将原问题不断分解为子问题，那么我们什么时候停止�
 <img src="https://github.com/michelleweii/ParallelSMO/blob/master/picture/ex-2.png" width="800" alt="note3">
 
 放了两张表，实验结果还是不错的。比原SMO时间快了一倍。
+
+[更多实验结果和论文内容请点](https://github.com/michelleweii/ParallelSMO/blob/master/hpcc_offical.pdf)
